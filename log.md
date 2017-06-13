@@ -28,3 +28,12 @@ Created a HTML and JS Drum Kit.
 **Thoughts:** Worked on different Array methods of JS including use of map, sort, reduce and various others.
 
 **Link to work:** [Nothing to show here](#)
+
+
+### Day 4: June 13th, 2017
+
+**Today's Progress**: Completed challenge 5 of JavaScript30. Also challenge 122 - 170 of FreeCodeCamp.
+
+**Thoughts:** Created a gallery based on flexbox. Learnt about grid positioning based on FlexBox.
+
+**Link to work:** [Flex Gallery](http://arkpod.in/JavaScript30/05%20-%20Flex%20Panel%20Gallery/index.html)

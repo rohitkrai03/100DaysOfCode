@@ -37,3 +37,12 @@ Created a HTML and JS Drum Kit.
 **Thoughts:** Created a gallery based on flexbox. Learnt about grid positioning based on FlexBox.
 
 **Link to work:** [Flex Gallery](http://arkpod.in/JavaScript30/05%20-%20Flex%20Panel%20Gallery/index.html)
+
+
+### Day 5: June 14th, 2017
+
+**Today's Progress**: Completed challenge 6 of JavaScript30. 
+
+**Thoughts:** Created a type ahead which fetches a list of cities and states from gist API using fetch. Then shows matching cities and states of the value searched in the input box.
+
+**Link to work:** [Type Ahead](http://arkpod.in/JavaScript30/06%20-%20Type%20Ahead/index.html)

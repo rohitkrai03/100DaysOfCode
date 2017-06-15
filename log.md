@@ -32,7 +32,7 @@ Created a HTML and JS Drum Kit.
 
 ### Day 4: June 13th, 2017
 
-**Today's Progress**: Completed challenge 5 of JavaScript30. Also challenge 122 - 170 of FreeCodeCamp.
+**Today's Progress**: Completed challenge 5 of JavaScript30. Also challenge 122 - 160 of FreeCodeCamp.
 
 **Thoughts:** Created a gallery based on flexbox. Learnt about grid positioning based on FlexBox.
 
@@ -46,3 +46,12 @@ Created a HTML and JS Drum Kit.
 **Thoughts:** Created a type ahead which fetches a list of cities and states from gist API using fetch. Then shows matching cities and states of the value searched in the input box.
 
 **Link to work:** [Type Ahead](http://arkpod.in/JavaScript30/06%20-%20Type%20Ahead/index.html)
+
+
+### Day 6: June 15th, 2017
+
+**Today's Progress**: Completed challenge 7 and 8 of JavaScript30. Also 160 - 190 from freecodecamp.
+
+**Thoughts:** Created a HTML5 canvas which draws lines of different colors and width on your mouse move. Also, used Array.prototype.some(), every(), find() and findIndex(). Practised on freecodecamp.
+
+**Link to work:** [HTML5 Canvas](http://arkpod.in/JavaScript30/08%20-%20Fun%20with%20HTML5%20Canvas/index.html)

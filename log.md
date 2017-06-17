@@ -55,3 +55,21 @@ Created a HTML and JS Drum Kit.
 **Thoughts:** Created a HTML5 canvas which draws lines of different colors and width on your mouse move. Also, used Array.prototype.some(), every(), find() and findIndex(). Practised on freecodecamp.
 
 **Link to work:** [HTML5 Canvas](http://arkpod.in/JavaScript30/08%20-%20Fun%20with%20HTML5%20Canvas/index.html)
+
+
+### Day 7: June 16th, 2017
+
+**Today's Progress**: Completed challenge 9 of JavaScript30.
+
+**Thoughts:** Worked and learnt about various chrome dev tools tricks.
+
+**Link to work:** [Nothing to Show Here](#)
+
+
+### Day 6: June 17th, 2017
+
+**Today's Progress**: Completed challenge 10 of JavaScript30.
+
+**Thoughts:** Created a checkbox list where you can hold shift to check mutliple checkboxs at once.
+
+**Link to work:** [HTML5 Canvas](http://arkpod.in/JavaScript30/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/index.html)

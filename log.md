@@ -82,3 +82,16 @@ Created a HTML and JS Drum Kit.
 **Thoughts:** Created a custom Video Player with seek, volume and play speed options. Also, worked on konami code detection sequence.
 
 **Link to work:** [Video Player](http://arkpod.in/JavaScript30/11%20-%20Custom%20Video%20Player/index.html)
+
+
+
+### Day 10: June 19th, 2017
+
+**Today's Progress**: Completed challenge 190 and 245 of freecodecamp.
+
+**Thoughts:** Worked on Javascript challenges of freecodecamp. And worked on varioud basic algorithm problems in Javascript.
+
+**Link to work:** [Nothing to show](#)
+
+
+

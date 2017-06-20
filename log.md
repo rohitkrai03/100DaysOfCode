@@ -87,11 +87,18 @@ Created a HTML and JS Drum Kit.
 
 ### Day 10: June 19th, 2017
 
-**Today's Progress**: Completed challenge 190 and 245 of freecodecamp.
+**Today's Progress**: Completed challenge 190 and 250 of freecodecamp.
 
 **Thoughts:** Worked on Javascript challenges of freecodecamp. And worked on varioud basic algorithm problems in Javascript.
 
 **Link to work:** [Nothing to show](#)
 
 
+### Day 11: June 20th, 2017
+
+**Today's Progress**: Completed challenge 13 and 14 of JavaScript30.
+
+**Thoughts:** Worked on Javascript challenges of JavaScript30. Created a slide in on scroll slider with images which slide in when half way through viewport. learnt about debounce and different window positions and events. Learnt about references in javascript and different ways to copy an array or object.
+
+**Link to work:** [Demo](http://arkpod.in/JavaScript30/13%20-%20Slide%20in%20on%20Scroll/index.html)
 

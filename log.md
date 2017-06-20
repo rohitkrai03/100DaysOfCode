@@ -66,10 +66,19 @@ Created a HTML and JS Drum Kit.
 **Link to work:** [Nothing to Show Here](#)
 
 
-### Day 6: June 17th, 2017
+### Day 8: June 17th, 2017
 
 **Today's Progress**: Completed challenge 10 of JavaScript30.
 
 **Thoughts:** Created a checkbox list where you can hold shift to check mutliple checkboxs at once.
 
 **Link to work:** [HTML5 Canvas](http://arkpod.in/JavaScript30/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/index.html)
+
+
+### Day 9: June 18th, 2017
+
+**Today's Progress**: Completed challenge 11 and 12 of JavaScript30.
+
+**Thoughts:** Created a custom Video Player with seek, volume and play speed options. Also, worked on konami code detection sequence.
+
+**Link to work:** [Video Player](http://arkpod.in/JavaScript30/11%20-%20Custom%20Video%20Player/index.html)

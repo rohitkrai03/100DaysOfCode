@@ -100,5 +100,17 @@ Created a HTML and JS Drum Kit.
 
 **Thoughts:** Worked on Javascript challenges of JavaScript30. Created a slide in on scroll slider with images which slide in when half way through viewport. learnt about debounce and different window positions and events. Learnt about references in javascript and different ways to copy an array or object.
 
-**Link to work:** [Demo](http://arkpod.in/JavaScript30/13%20-%20Slide%20in%20on%20Scroll/index.html)
+**Link to work:** [Slide on scroll](http://arkpod.in/JavaScript30/13%20-%20Slide%20in%20on%20Scroll/index.html)
+
+
+### Day 11: June 20th, 2017
+
+**Today's Progress**: Completed challenge 15 and 16 of JavaScript30.
+
+**Thoughts:** Worked on Javascript challenges of JavaScript30. Created a to do list which persists data using localStorage APi. ALso used event delegation for adding listeners to elemenst which will be added in the list later.
+Created a shadow effect which moves based on the psotion of your mouse.
+
+**Link to work:** 
+[To Do list](http://arkpod.in/JavaScript30/15%20-%20LocalStorage/index.html)
+[Shadow effect](http://arkpod.in/JavaScript30/15%20-%20Mouse%20Move%20Shadow/index.html)
 

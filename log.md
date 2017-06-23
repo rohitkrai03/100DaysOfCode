@@ -114,3 +114,14 @@ Created a shadow effect which moves based on the psotion of your mouse.
 [To Do list](http://arkpod.in/JavaScript30/15%20-%20LocalStorage/index.html)
 [Shadow effect](http://arkpod.in/JavaScript30/15%20-%20Mouse%20Move%20Shadow/index.html)
 
+
+### Day 12: June 21th, 2017
+
+**Today's Progress**: Completed challenges from FreeCodeCamp.
+
+**Thoughts:** Worked on algorithm challenges from freecodecamp.
+
+**Link to work:** 
+
+
+

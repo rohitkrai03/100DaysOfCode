@@ -103,7 +103,7 @@ Created a HTML and JS Drum Kit.
 **Link to work:** [Slide on scroll](http://arkpod.in/JavaScript30/13%20-%20Slide%20in%20on%20Scroll/index.html)
 
 
-### Day 12: June 20th, 2017
+### Day 12: June 21th, 2017
 
 **Today's Progress**: Completed challenge 15 and 16 of JavaScript30.
 
@@ -115,7 +115,7 @@ Created a shadow effect which moves based on the psotion of your mouse.
 [Shadow effect](http://arkpod.in/JavaScript30/15%20-%20Mouse%20Move%20Shadow/index.html)
 
 
-### Day 13: June 21th, 2017
+### Day 13: June 22th, 2017
 
 **Today's Progress**: Completed challenges from FreeCodeCamp.
 
@@ -123,5 +123,13 @@ Created a shadow effect which moves based on the psotion of your mouse.
 
 **Link to work:** 
 
+
+### Day 14: June 23th, 2017
+
+**Today's Progress**: Completed challenge 17 and 18 of JavaScript30.
+
+**Thoughts:** Worked on Array.sort for sorting an array of band names but without considering the articles like a, an, the. Also, worked on Array.reduce to add up times of videos in a list which comes as a dataset property and then showing in a readable hours, minutes and seconds format.
+
+**Link to work:** 
 
 

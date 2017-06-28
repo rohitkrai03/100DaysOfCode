@@ -151,3 +151,12 @@ Created a shadow effect which moves based on the psotion of your mouse.
 **Link to work:** [Bro Counter](http://arkpod.in/JavaScript30/20%20-%20Speech%20Detection/index.html)
 
 
+### Day 17: June 28th, 2017
+
+**Today's Progress**: Completed challenge 21 and 22 of JavaScript30.
+
+**Thoughts:** Created a page which tracks your geolocation and shows it on compass with direction and speed of walking. Used iOS simulator from xcode to test it. Also, a follow along link highlighter.
+
+**Link to work:** [Link Highlighter](http://arkpod.in/JavaScript30/20%20-%20Follow%20Along%20Link%20Highlighter/index.html)
+
+

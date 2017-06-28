@@ -142,3 +142,12 @@ Created a shadow effect which moves based on the psotion of your mouse.
 **Link to work:** [Webcam Booth](http://arkpod.in/JavaScript30/19%20-%20Webcam%20Fun/index.html)
 
 
+### Day 16: June 27th, 2017
+
+**Today's Progress**: Completed challenge 20 of JavaScript30.
+
+**Thoughts:** Created a speech recognition system where the app writes everything you speak by using native speech recoginition of browser. Also, added a few fun things like a counter that counts how many times someone says "Bro" and shows it in a highlighted way. Used localStorage to store the counter value even after refreshing the page.
+
+**Link to work:** [Bro Counter](http://arkpod.in/JavaScript30/20%20-%20Speech%20Detection/index.html)
+
+

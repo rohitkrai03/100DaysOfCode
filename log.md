@@ -160,3 +160,12 @@ Created a shadow effect which moves based on the psotion of your mouse.
 **Link to work:** [Link Highlighter](http://arkpod.in/JavaScript30/20%20-%20Follow%20Along%20Link%20Highlighter/index.html)
 
 
+## Day 18: June 29th, 2017
+
+**Today's Progress**: Completed challenge 23 of JavaScript30.
+
+**Thoughts:** Created a text to speech synthesiser which converts your written text into speech using native speech synthesis engine. It also have options to change different voices and change speed and pitch of that voice.
+
+**Link to work:** [Speech Synthesis](http://arkpod.in/JavaScript30/20%20-%20Speech%20Synthesis/index.html)
+
+

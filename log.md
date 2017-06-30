@@ -169,3 +169,16 @@ Created a shadow effect which moves based on the psotion of your mouse.
 **Link to work:** [Speech Synthesis](http://arkpod.in/JavaScript30/20%20-%20Speech%20Synthesis/index.html)
 
 
+## Day 19: June 30th, 2017
+
+**Today's Progress**: Completed challenge 24, 25 and 26 of JavaScript30.
+
+**Thoughts:** Created a nav which stickt o the top when scrolled. Also learned about event propagatin, bubbling, capture and once.
+Created a navigation with dropdowns which follows around when you hover over different items.
+
+**Link to work:** 
+[Sticky Nav](http://arkpod.in/JavaScript30/24%20-%20Sticky%20Nav/index.html)
+[Follow Along Nav](http://arkpod.in/JavaScript30/26%20-%20Stripe%20Follow%20Along%20Nav/index.html)
+
+
+

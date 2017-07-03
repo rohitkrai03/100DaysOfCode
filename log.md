@@ -190,3 +190,13 @@ Created a navigation with dropdowns which follows around when you hover over dif
 **Link to work:** 
 
 
+## Day 22: July 3rd, 2017
+
+**Today's Progress**: Completed challenge 27 of JavaScript30.
+
+**Thoughts:** Created a swipe cards section where you can click and drag the elements to scroll.
+
+**Link to work:** 
+[Click and Drag](http://arkpod.in/JavaScript30/27%20-%20Click%20and%20Drag/index.html)
+
+

@@ -181,4 +181,12 @@ Created a navigation with dropdowns which follows around when you hover over dif
 [Follow Along Nav](http://arkpod.in/JavaScript30/26%20-%20Stripe%20Follow%20Along%20Nav/index.html)
 
 
+## Day 20 & 21: July 1st & 2nd, 2017
+
+**Today's Progress**: Read 2nd book of You Don't Know JS series.
+
+**Thoughts:** Learnt about lexical scope in JavaScript and Closures.
+
+**Link to work:** 
+
 

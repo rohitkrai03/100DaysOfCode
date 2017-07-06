@@ -209,3 +209,12 @@ Created a navigation with dropdowns which follows around when you hover over dif
 **Link to work:** 
 
 
+## Day 24: July 5rd, 2017
+
+**Today's Progress**: Completed challenge 28 of JavaScript30.
+
+**Thoughts:** Created a video speed controller which is animated based on the position of your mouse.
+
+**Link to work:** [Video Speed Controller](http://arkpod.in/JavaScript30/28%20-%20Video%20Speed%20Controller/index.html)
+
+

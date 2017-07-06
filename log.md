@@ -200,3 +200,12 @@ Created a navigation with dropdowns which follows around when you hover over dif
 [Click and Drag](http://arkpod.in/JavaScript30/27%20-%20Click%20and%20Drag/index.html)
 
 
+## Day 23: July 4rd, 2017
+
+**Today's Progress**: Worked on intermediate algorithm scripting challenges from FreeCodeCamp.
+
+**Thoughts:** Completed 10 algorithm scripting challenges of FreeCodeCamp;
+
+**Link to work:** 
+
+

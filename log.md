@@ -103,7 +103,7 @@ Created a HTML and JS Drum Kit.
 **Link to work:** [Slide on scroll](http://arkpod.in/JavaScript30/13%20-%20Slide%20in%20on%20Scroll/index.html)
 
 
-### Day 12: June 21th, 2017
+### Day 12: June 21st, 2017
 
 **Today's Progress**: Completed challenge 15 and 16 of JavaScript30.
 
@@ -115,7 +115,7 @@ Created a shadow effect which moves based on the psotion of your mouse.
 [Shadow effect](http://arkpod.in/JavaScript30/15%20-%20Mouse%20Move%20Shadow/index.html)
 
 
-### Day 13: June 22th, 2017
+### Day 13: June 22nd, 2017
 
 **Today's Progress**: Completed challenges from FreeCodeCamp.
 
@@ -124,7 +124,7 @@ Created a shadow effect which moves based on the psotion of your mouse.
 **Link to work:** 
 
 
-### Day 14: June 23th, 2017
+### Day 14: June 23rd, 2017
 
 **Today's Progress**: Completed challenge 17 and 18 of JavaScript30.
 
@@ -200,7 +200,7 @@ Created a navigation with dropdowns which follows around when you hover over dif
 [Click and Drag](http://arkpod.in/JavaScript30/27%20-%20Click%20and%20Drag/index.html)
 
 
-## Day 23: July 4rd, 2017
+## Day 23: July 4th, 2017
 
 **Today's Progress**: Worked on intermediate algorithm scripting challenges from FreeCodeCamp.
 
@@ -209,12 +209,23 @@ Created a navigation with dropdowns which follows around when you hover over dif
 **Link to work:** 
 
 
-## Day 24: July 5rd, 2017
+## Day 24: July 5th, 2017
 
 **Today's Progress**: Completed challenge 28 of JavaScript30.
 
 **Thoughts:** Created a video speed controller which is animated based on the position of your mouse.
 
 **Link to work:** [Video Speed Controller](http://arkpod.in/JavaScript30/28%20-%20Video%20Speed%20Controller/index.html)
+
+
+## Day 25: July 6th, 2017
+
+**Today's Progress**: Completed challenge 29 and 30 of JavaScript30.
+
+**Thoughts:** Created a countdown clock and a small game called whack a mole where you click on moles coming out of ground.
+
+**Link to work:** [Demo](http://arkpod.in/JavaScript30/29%20-%20Countdown%20Timer/index.html)
+
+[Demo](http://arkpod.in/JavaScript30/30%20-%20Whack%20A%20Mole/index.html)
 
 
